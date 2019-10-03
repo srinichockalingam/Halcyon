@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/halcyon/static/css/main.a228010c.chunk.css",
+    "main.js": "/halcyon/static/js/main.6c651103.chunk.js",
+    "main.js.map": "/halcyon/static/js/main.6c651103.chunk.js.map",
+    "runtime-main.js": "/halcyon/static/js/runtime-main.15c1f413.js",
+    "runtime-main.js.map": "/halcyon/static/js/runtime-main.15c1f413.js.map",
+    "static/js/2.5c3312cb.chunk.js": "/halcyon/static/js/2.5c3312cb.chunk.js",
+    "static/js/2.5c3312cb.chunk.js.map": "/halcyon/static/js/2.5c3312cb.chunk.js.map",
+    "index.html": "/halcyon/index.html",
+    "precache-manifest.6c41de43c41cad91fbebbce3f05d8e46.js": "/halcyon/precache-manifest.6c41de43c41cad91fbebbce3f05d8e46.js",
+    "service-worker.js": "/halcyon/service-worker.js",
+    "static/css/main.a228010c.chunk.css.map": "/halcyon/static/css/main.a228010c.chunk.css.map",
+    "static/media/Halcyon.jpg": "/halcyon/static/media/Halcyon.10080290.jpg",
+    "static/media/mdsp-css.min.css": "/halcyon/static/media/sisan38.f7996b4d.ttf"
+  }
+}
